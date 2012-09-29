@@ -23,7 +23,7 @@ Application Directory Structure:
 		- jquery/
 		- knockout/
 		- require/
-	- templates/ (*html...*)
+	- tmpl/ (*html...*)
 - index.html
 
 
